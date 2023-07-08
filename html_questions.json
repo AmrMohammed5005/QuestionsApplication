@@ -1,0 +1,82 @@
+[
+  {
+    "title": "What is JavaScript?",
+    "answer_1": "A programming language used to create interactive effects within web browsers",
+    "answer_2": "A markup language used to structure and display content on the web",
+    "answer_3": "A database management system used to store and retrieve data on the web",
+    "answer_4": "A server-side scripting language used to create dynamic web pages",
+    "right_answer": "A programming language used to create interactive effects within web browsers"
+  },
+  {
+    "title": "What is a variable in JavaScript?",
+    "answer_1": "A named container used to store data values",
+    "answer_2": "A function that performs a specific task",
+    "answer_3": "A keyword used to declare a loop",
+    "answer_4": "A data type that represents a sequence of characters",
+    "right_answer": "A named container used to store data values"
+  },
+  {
+    "title": "What is the difference between var, let, and const in JavaScript?",
+    "answer_1": "var is function-scoped, let is block-scoped, and const is block-scoped and cannot be reassigned",
+    "answer_2": "var is block-scoped, let is function-scoped, and const is block-scoped and can be reassigned",
+    "answer_3": "var is block-scoped and can be reassigned, let is function-scoped and can be reassigned, and const is block-scoped and cannot be reassigned",
+    "answer_4": "var is function-scoped and cannot be reassigned, let is block-scoped and can be reassigned, and const is block-scoped and can be reassigned",
+    "right_answer": "var is function-scoped and can be reassigned, let is block-scoped and can be reassigned, and const is block-scoped and cannot be reassigned"
+  },
+  {
+    "title": "What is a function in JavaScript?",
+    "answer_1": "A named container used to store data values",
+    "answer_2": "A keyword used to declare a loop",
+    "answer_3": "A data type that represents a sequence of characters",
+    "answer_4": "A block of code designed to perform a specific task",
+    "right_answer": "A block of code designed to perform a specific task"
+  },
+  {
+    "title": "What is an array in JavaScript?",
+    "answer_1": "A data type that represents a sequence of characters",
+    "answer_2": "A named container used to store data values",
+    "answer_3": "A function that performs a specific task",
+    "answer_4": "A collection of data values that can be accessed by index",
+    "right_answer": "A collection of data values that can be accessed by index"
+  },
+  {
+    "title": "What is a conditional statement in JavaScript?",
+    "answer_1": "A block of code designed to perform a specific task",
+    "answer_2": "A keyword used to declare a loop",
+    "answer_3": "A statement that performs a calculation",
+    "answer_4": "A statement that performs a test and executes code based on the result",
+    "right_answer": "A statement that performs a test and executes code based on the result"
+  },
+  {
+    "title": "What is a loop in JavaScript?",
+    "answer_1": "A keyword used to declare a conditional statement",
+    "answer_2": "A keyword used to declare a function",
+    "answer_3": "A block of code designed to perform a specific task",
+    "answer_4": "A structure used to repeat a block of code multiple times",
+    "right_answer": "A structure used to repeat a block of code multiple times"
+  },
+  {
+    "title": "What is a callback function in JavaScript?",
+    "answer_1": "A function that is executed immediately when it is defined",
+    "answer_2": "A function that is called when an event occurs",
+    "answer_3": "A function that is passed as an argument to another function and executed inside that function",
+    "answer_4": "A function that is used to declare a loop",
+    "right_answer": "A function that is passed as an argument to another function and executed inside that function"
+  },
+  {
+    "title": "What is the DOM in JavaScript?",
+    "answer_1": "A programming language used to create interactive effects within web browsers",
+    "answer_2": "A database management system used to store and retrieve data on the web",
+    "answer_3": "A markup language used to structure and displaycontent on the web",
+    "answer_4": "A programming interface for web browsers that allows JavaScript to manipulate HTML and CSS",
+    "right_answer": "A programming interface for web browsers that allows JavaScript to manipulate HTML and CSS"
+  },
+  {
+    "title": "What is an event listener in JavaScript?",
+    "answer_1": "A function that is executed immediately when it is defined",
+    "answer_2": "A function that is called when an event occurs",
+    "answer_3": "A function that is used to declare a loop",
+    "answer_4": "A block of code designed to perform a specific task",
+    "right_answer": "A function that is called when an event occurs"
+  }
+]
